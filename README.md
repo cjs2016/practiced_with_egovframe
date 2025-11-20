@@ -17,6 +17,17 @@
 - HTML
 - Batchfile
 
+## 개발 툴 및 다운로드 링크
+
+| 개발 툴             | 공식 다운로드 사이트                                                                                           | 비고                          |
+|---------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Apache Tomcat 9.0   | [tomcat.apache.org/download-90.cgi](https://tomcat.apache.org/download-90.cgi)                               | 웹 서버, 최신 9.0.x 버전 제공 |
+| Eclipse             | [eclipse.org/downloads](https://www.eclipse.org/downloads/)                                                  | 대표 Java 통합 개발 환경      |
+| JDK 8 (웹 서버용)   | [oracle.com/java/technologies/javase/javase8-archive-downloads.html](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) | 장기 지원(Java 8)           |
+| JDK 17 (앱/최신용)  | [oracle.com/java/technologies/downloads/#jdk17](https://www.oracle.com/java/technologies/downloads/#jdk17)   | Java 17 LTS 추천            |
+| MySQL 8.0           | [dev.mysql.com/downloads/mysql/](https://dev.mysql.com/downloads/mysql/)                                     | 오픈소스 데이터베이스        |
+| Android Studio      | [developer.android.com/studio](https://developer.android.com/studio)                                         | 구글 공식 안드로이드 개발툴  |
+
 ## 필요한 API KEY
 
 이 프로젝트를 실행하기 위해서는 다음과 같은 외부 서비스 API KEY가 필요합니다.  
