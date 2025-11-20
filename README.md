@@ -68,9 +68,11 @@
 
 ## 참고
 
-- eGovFrame 공식 사이트: https://www.egovframe.go.kr/
+- eGovFrame  사이트: https://www.egovframe.go.kr/
 - eGovFrame Mobile 사이트 http://m.egovframe.go.kr/mguide3.5/
-- 관련 예제 및 문서는 공식 가이드 참고
+- Android 개발자 사이트 https://developer.android.com/reference
+- Kotlin DOCS 사이트 https://kotlinlang.org/docs/api-references.html
+- Java DOCS 사이트 https://docs.oracle.com/javaee/7/index.html
 
 ## 라이선스
 
