@@ -68,6 +68,7 @@ Java, Kotlin, Javascript, CSS, HTML, Batchfile
 - Android 개발자 사이트 https://developer.android.com/reference
 - Kotlin DOCS 사이트 https://kotlinlang.org/docs/api-references.html
 - Java DOCS 사이트 https://docs.oracle.com/javaee/7/index.html
+- MSA service mesh 참조 https://spring.io/microservices
 
 ## 라이선스
 
