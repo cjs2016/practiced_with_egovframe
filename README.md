@@ -1,2 +1,2 @@
-[initialsetup](./video/initialsetup.mp4)
+[initialsetup](./initialsetup.mp4)
 
